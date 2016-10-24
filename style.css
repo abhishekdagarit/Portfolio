@@ -15,3 +15,30 @@
 .footer ul li a:hover {
 	color: #333;
 }
+
+#contract p {
+	color: #000;
+	text-align: left;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#contract h1, h2, h3 {
+	color: #777;
+}
+
+#contract h3 {
+	text-align: left;
+}
+
+#contract-title h1{
+	font-family: 'Ruthie', cursive;
+	font-size: 87px;
+	color: #777;
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+
+#contract h2 {
+	text-decoration: underline;
+}
