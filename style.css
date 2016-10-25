@@ -45,7 +45,12 @@
 
 .contactus {
 	font-family: 'Lato', sans-serif;
-	padding-top: 159px;
+	padding-top: 100px;
+	padding-bottom: 152px;
+}
+
+#contact-us-message h4 {
+	font-family: 'Lato', sans-serif;
 }
 
 #button {
@@ -62,4 +67,13 @@
 
 #button .hover {
 	background-color: #333;
+}
+
+.googlemap {
+	padding-top: 100px;
+}
+
+#googlemap {
+	min-height: 370px;
+	width: 100%;
 }
