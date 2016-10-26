@@ -94,3 +94,18 @@
     background: url(polina.jpg) no-repeat;
     background-size: cover; 
 }
+
+#name h1{
+	padding-top: 220px;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 200px;
+	color: rgb(3,32,41);
+	opacity: 0.5;
+}
+
+#name p{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 50px;
+	color: #fff;
+	opacity: 0.5;	
+}
