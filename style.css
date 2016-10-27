@@ -120,3 +120,10 @@
 	line-height: 100px;
 	padding-left: 29px;	
 }
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+      width: auto;
+      margin: auto;
+      max-height: 500px;
+  }
